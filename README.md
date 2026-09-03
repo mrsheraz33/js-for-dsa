@@ -83,4 +83,4 @@ The purpose of this repository is to strengthen JavaScript fundamentals through 
 
 ## Author
 
-Full Stack Web developer | Muhammad Sheraz
+Full Stack Web developer
